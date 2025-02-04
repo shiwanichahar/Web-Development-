@@ -7,6 +7,10 @@ I'm Shiwani, an aspiring web developer on a mission to create dynamic and user-f
 ### Skills I'm Working On:
 - HTML & CSS 🎨
 - JavaScript 💻
+- React.js
+- Node.js
+- Express.js
+- MongoDb
 - Responsive Web Design 📱
 - Version Control (Git & GitHub) 📂
 
